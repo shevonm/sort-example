@@ -1,5 +1,5 @@
 let arr = [
-  { medium: "Thug Kitchen", foodType: "Vegan", timeToCook: 50 },
+  { medium: "Patti LaBelle's Southern Recipes", foodType: "Soul Food", timeToCook: 90 },
   {
     medium: "Healthy Indian by Chetna Makan",
     foodType: "Indian",
@@ -11,7 +11,7 @@ let arr = [
   {
     medium: "Fallout: The Vault Dwellers Official Cookbook",
     foodType: "Post Apocalyptic",
-    timeToCook: 30,
+    timeToCook: 120,
   },
   { medium: "Salt, Fat, Acid, Heat", foodType: "Various", timeToCook: 45 },
   { medium: "Yan Can Cook", foodType: "Chinese", timeToCook: 20 },
