@@ -15,15 +15,15 @@ let arr = [
   },
   { medium: "Salt, Fat, Acid, Heat", foodType: "Various", timeToCook: 45 },
   { medium: "Yan Can Cook", foodType: "Chinese", timeToCook: 20 },
-  { medium: "Binging with Babish", foodType: "Various", timeToCook: 120 },
+  { medium: "Binging with Babish", foodType: "Various", timeToCook: 1500 },
   {
     medium: "Justin Wilson's Louisiana Cookin",
     foodType: "Cajun",
     timeToCook: 45,
   },
   { medium: "Bob's Burgers Burger Book", foodType: "Burgers", timeToCook: 30 },
-  { medium: "Veganomicon", foodType: "Vegan", timeToCook: 60 },
-  { medium: "The Joy of Cooking", foodType: "American", timeToCook: 120 },
+  { medium: "Veganomicon", foodType: "Vegan", timeToCook: 100 },
+  { medium: "The Joy of Cooking", foodType: "American", timeToCook: 1500 },
   { medium: "Rachael Ray Show", foodType: "Classic", timeToCook: 42 },
 ];
 
